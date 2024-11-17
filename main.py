@@ -88,5 +88,5 @@ def main():
             print(f"W2 = {w2}")
             
     
-if name == "main":
+if __name__ == "__main__":
     main()
